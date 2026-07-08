@@ -121,6 +121,18 @@ Retail-Sales-Analytics-and-Customer-Segmentation/
 - Machine Learning Models
 
 ---
+## 💡 Skills Demonstrated
+
+- Data Cleaning
+- Data Wrangling
+- Exploratory Data Analysis (EDA)
+- Business Analytics
+- Customer Segmentation (RFM)
+- Data Visualization
+- Dashboard Development
+- Business Intelligence
+- Power BI
+- Python Programming
 
 ## 👨‍💻 Author
 
