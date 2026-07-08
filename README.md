@@ -1,4 +1,9 @@
 # 🛒 Retail Sales Analytics & Customer Segmentation
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy)
+![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)
 
 An end-to-end Retail Sales Analytics project that combines **Python**, **Pandas**, **RFM Customer Segmentation**, and an **interactive Power BI Dashboard** to analyze sales performance, customer behavior, and business profitability.
 
