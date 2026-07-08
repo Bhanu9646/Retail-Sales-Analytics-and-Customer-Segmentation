@@ -18,6 +18,9 @@ The project demonstrates the complete analytics workflow:
 - Interactive Dashboard Development
 
 ---
+## 📊 Dashboard Preview
+
+![Retail Sales Dashboard](images/dashboard.png)
 
 ## 🛠️ Tools & Technologies
 
